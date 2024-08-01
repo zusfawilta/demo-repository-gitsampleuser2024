@@ -10,7 +10,9 @@ def multiply(x, y):
     """Multiplies two numbers and returns the result."""
     return x * y
 #just a dummy change    
-#Added one comment 
+#Added one comment - changed
+#New Commit 
+
 
 
 
