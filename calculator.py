@@ -1,3 +1,3 @@
 def add(x, y):
-    """Adds two numbers and returns the result."""
+    """Adds two numbers"""
     return x + y
