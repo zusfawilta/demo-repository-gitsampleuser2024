@@ -12,7 +12,3 @@ def multiply(x, y):  # New function
 
 def divide(a, b):
     return a / b
-
-# New feature: Power function
-def power(a, b):
-    return a ** b
